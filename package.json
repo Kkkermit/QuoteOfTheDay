@@ -1,0 +1,23 @@
+{
+  "name": "quoteoftheday",
+  "version": "1.0.0",
+  "description": "Discord Quote Of The Day Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kkkermit/QuoteOfTheDay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kkkermit/QuoteOfTheDay/issues"
+  },
+  "homepage": "https://github.com/Kkkermit/QuoteOfTheDay#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
